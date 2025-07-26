@@ -1,0 +1,20 @@
+a:link {
+  text-decoration: none;
+  color: red;
+}
+
+a:visited {
+  color: blue;
+}
+
+a:hover {
+  color: yellow;
+}
+
+a:active {
+  color: brown;
+}
+
+a:focus {
+  outline: 2px solid black;
+}
